@@ -1,2 +1,2 @@
 # SimpleNPRShaderForFinalDesign
-A simple NPR shader using for final
+A simple Unity NPR shader using for final
